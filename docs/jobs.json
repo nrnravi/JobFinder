@@ -1,131 +1,61 @@
 {
- "updated": "2026-11-19T09:18:50.479195+00:00",
- "count": 73,
+ "updated": "2026-11-20T09:00:49.414308+00:00",
+ "count": 75,
  "jobs": [
   {
-   "id": "gh-stripe-8130876",
-   "company": "stripe",
-   "title": "Software Engineer, New Grad",
-   "location": "Bangalore",
-   "url": "https://stripe.com/jobs/search?gh_jid=8130876",
-   "posted": "2026-11-19",
-   "score": 75,
+   "id": "ab-Sarvam-0a5bf81d-3370-47e6-88f4-14aa5102ba72",
+   "company": "Sarvam",
+   "title": "Product User Research, Intern",
+   "location": "Bengaluru",
+   "url": "https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72",
+   "posted": "2026-11-20",
+   "score": 49,
    "fresher": true,
    "years": 0,
    "bangalore": true,
-   "skills": [],
-   "firstSeen": "2026-11-19",
-   "isNew": true
-  },
-  {
-   "id": "gh-sigmoid-7916306002",
-   "company": "sigmoid",
-   "title": "QA Engineer",
-   "location": "Bengaluru",
-   "url": "https://job-boards.greenhouse.io/sigmoid/jobs/7916306002",
-   "posted": "2026-11-18",
-   "score": 53,
-   "fresher": true,
-   "years": 2,
-   "bangalore": true,
    "skills": [
     "python",
-    "javascript",
     "sql"
    ],
-   "firstSeen": "2026-11-19",
+   "firstSeen": "2026-11-20",
    "isNew": true
   },
   {
-   "id": "gh-gitlab-8730125002",
-   "company": "gitlab",
-   "title": "Release Engineer, Salesforce",
-   "location": "Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8730125002",
-   "posted": "2026-11-18",
-   "score": 38,
-   "fresher": false,
-   "years": 0,
-   "bangalore": true,
-   "skills": [
-    "python",
-    "git"
-   ],
-   "firstSeen": "2026-11-19",
-   "isNew": true
-  },
-  {
-   "id": "gh-zscaler-5085027007",
-   "company": "zscaler",
-   "title": "Escalation Engineer - ZTB",
-   "location": "Bangalore, IND",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5085027007",
-   "posted": "2026-11-18",
-   "score": 27,
-   "fresher": true,
-   "years": 0,
-   "bangalore": true,
-   "skills": [
-    "git"
-   ],
-   "firstSeen": "2026-11-19",
-   "isNew": true
-  },
-  {
-   "id": "gh-stripe-7917880",
-   "company": "stripe",
-   "title": "Technical Solutions Engineer",
-   "location": "Remote - US",
-   "url": "https://stripe.com/jobs/search?gh_jid=7917880",
-   "posted": "2026-11-18",
-   "score": 43,
-   "fresher": true,
-   "years": 0,
-   "bangalore": false,
-   "skills": [
-    "python",
-    "react",
-    "node",
-    "kotlin",
-    "android",
-    "llm"
-   ],
-   "firstSeen": "2026-11-19",
-   "isNew": true
-  },
-  {
-   "id": "lv-paytm-0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8",
-   "company": "paytm",
-   "title": "Backend - Intern ( SEA & Europe)",
-   "location": "Noida, Uttar Pradesh",
-   "url": "https://jobs.lever.co/paytm/0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8",
+   "id": "gh-yugabyte-4727959006",
+   "company": "yugabyte",
+   "title": "Developer Advocate",
+   "location": "Remote, US",
+   "url": "https://job-boards.greenhouse.io/yugabyte/jobs/4727959006",
    "posted": "2026-11-19",
-   "score": 28,
-   "fresher": true,
-   "years": 0,
-   "bangalore": false,
-   "skills": [
-    "backend"
-   ],
-   "firstSeen": "2026-11-19",
-   "isNew": true
-  },
-  {
-   "id": "ab-Ramp-f90d32c1-7c10-4161-8913-075e1b423697",
-   "company": "Ramp",
-   "title": "Research Engineer, Agentic Systems",
-   "location": "Remote (US)",
-   "url": "https://jobs.ashbyhq.com/ramp/f90d32c1-7c10-4161-8913-075e1b423697",
-   "posted": "2026-11-18",
-   "score": 19,
+   "score": 18,
    "fresher": false,
    "years": 0,
    "bangalore": false,
    "skills": [
-    "python",
-    "llm"
+    "sql",
+    "ai engineer",
+    "git"
    ],
-   "firstSeen": "2026-11-19",
+   "firstSeen": "2026-11-20",
+   "isNew": true
+  },
+  {
+   "id": "gh-yugabyte-4682542006",
+   "company": "yugabyte",
+   "title": "Solutions Engineer",
+   "location": "Remote, US",
+   "url": "https://job-boards.greenhouse.io/yugabyte/jobs/4682542006",
+   "posted": "2026-11-19",
+   "score": 15,
+   "fresher": false,
+   "years": 0,
+   "bangalore": false,
+   "skills": [
+    "node",
+    "sql",
+    "aws"
+   ],
+   "firstSeen": "2026-11-20",
    "isNew": true
   },
   {
@@ -167,6 +97,21 @@
     "git"
    ],
    "firstSeen": "2026-11-16",
+   "isNew": false
+  },
+  {
+   "id": "gh-stripe-8130876",
+   "company": "stripe",
+   "title": "Software Engineer, New Grad",
+   "location": "Bangalore",
+   "url": "https://stripe.com/jobs/search?gh_jid=8130876",
+   "posted": "2026-11-19",
+   "score": 75,
+   "fresher": true,
+   "years": 0,
+   "bangalore": true,
+   "skills": [],
+   "firstSeen": "2026-11-19",
    "isNew": false
   },
   {
@@ -333,23 +278,22 @@
    "isNew": false
   },
   {
-   "id": "gh-hackerrank-8127535",
-   "company": "hackerrank",
-   "title": "Customer Experience Engineer, L1",
-   "location": "Hybrid in Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8127535",
-   "posted": "2026-10-09",
-   "score": 52,
+   "id": "gh-sigmoid-7916306002",
+   "company": "sigmoid",
+   "title": "QA Engineer",
+   "location": "Bengaluru",
+   "url": "https://job-boards.greenhouse.io/sigmoid/jobs/7916306002",
+   "posted": "2026-11-18",
+   "score": 53,
    "fresher": true,
-   "years": 0,
+   "years": 2,
    "bangalore": true,
    "skills": [
     "python",
     "javascript",
-    "rest api",
     "sql"
    ],
-   "firstSeen": "2026-11-16",
+   "firstSeen": "2026-11-19",
    "isNew": false
   },
   {
@@ -449,6 +393,25 @@
    "isNew": false
   },
   {
+   "id": "gh-databricks-8829029002",
+   "company": "databricks",
+   "title": "Software Engineer, Infrastructure",
+   "location": "Bengaluru, India",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
+   "posted": "2026-11-19",
+   "score": 41,
+   "fresher": false,
+   "years": 0,
+   "bangalore": true,
+   "skills": [
+    "python",
+    "aws",
+    "git"
+   ],
+   "firstSeen": "2026-11-16",
+   "isNew": false
+  },
+  {
    "id": "gh-mongodb-8007613",
    "company": "mongodb",
    "title": "Technical Services Engineer",
@@ -507,7 +470,7 @@
    "title": "Software Engineer, Intern",
    "location": "Bengaluru",
    "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-   "posted": "2026-10-29",
+   "posted": "2026-11-19",
    "score": 40,
    "fresher": true,
    "years": 0,
@@ -559,7 +522,7 @@
    "title": "Developer Support Engineer",
    "location": "Bengaluru, India",
    "url": "https://www.okta.com/company/careers/opportunity/7770733?gh_jid=7770733",
-   "posted": "2026-11-16",
+   "posted": "2026-11-19",
    "score": 38,
    "fresher": true,
    "years": 0,
@@ -589,12 +552,30 @@
    "isNew": false
   },
   {
+   "id": "gh-gitlab-8730125002",
+   "company": "gitlab",
+   "title": "Release Engineer, Salesforce",
+   "location": "Bangalore, India",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8730125002",
+   "posted": "2026-11-18",
+   "score": 38,
+   "fresher": false,
+   "years": 0,
+   "bangalore": true,
+   "skills": [
+    "python",
+    "git"
+   ],
+   "firstSeen": "2026-11-19",
+   "isNew": false
+  },
+  {
    "id": "gh-stripe-7543868",
    "company": "stripe",
    "title": "Software Engineer, Financial Business Insights",
    "location": "Bengaluru, India",
    "url": "https://stripe.com/jobs/search?gh_jid=7543868",
-   "posted": "2026-10-29",
+   "posted": "2026-11-19",
    "score": 37,
    "fresher": true,
    "years": 0,
@@ -628,7 +609,7 @@
    "title": "AP & Expenses Projects Analyst",
    "location": "Bengaluru, India",
    "url": "https://www.okta.com/company/careers/opportunity/7626222?gh_jid=7626222",
-   "posted": "2026-11-16",
+   "posted": "2026-11-19",
    "score": 36,
    "fresher": false,
    "years": 0,
@@ -715,7 +696,7 @@
    "title": "Processing Cost Analyst",
    "location": "IN-Bengaluru",
    "url": "https://stripe.com/jobs/search?gh_jid=8324207",
-   "posted": "2026-11-02",
+   "posted": "2026-11-19",
    "score": 34,
    "fresher": true,
    "years": 0,
@@ -733,7 +714,7 @@
    "title": "Business Systems Analyst, ServiceNow",
    "location": "Bengaluru, India",
    "url": "https://www.okta.com/company/careers/opportunity/7727730?gh_jid=7727730",
-   "posted": "2026-11-16",
+   "posted": "2026-11-19",
    "score": 34,
    "fresher": false,
    "years": 0,
@@ -806,7 +787,7 @@
    "title": "Software Engineer, Core Technology",
    "location": "Bangalore",
    "url": "https://stripe.com/jobs/search?gh_jid=7618977",
-   "posted": "2026-10-29",
+   "posted": "2026-11-19",
    "score": 31,
    "fresher": true,
    "years": 0,
@@ -838,7 +819,7 @@
    "title": "Software Engineer, Payin",
    "location": "Bengaluru",
    "url": "https://stripe.com/jobs/search?gh_jid=8185012",
-   "posted": "2026-10-29",
+   "posted": "2026-11-19",
    "score": 29,
    "fresher": true,
    "years": 0,
@@ -890,7 +871,7 @@
    "title": "Third Party Risk Analyst",
    "location": "Bengaluru",
    "url": "https://stripe.com/jobs/search?gh_jid=8189018",
-   "posted": "2026-10-29",
+   "posted": "2026-11-19",
    "score": 27,
    "fresher": true,
    "years": 0,
@@ -902,12 +883,29 @@
    "isNew": false
   },
   {
+   "id": "gh-zscaler-5085027007",
+   "company": "zscaler",
+   "title": "Escalation Engineer - ZTB",
+   "location": "Bangalore, IND",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5085027007",
+   "posted": "2026-11-18",
+   "score": 27,
+   "fresher": true,
+   "years": 0,
+   "bangalore": true,
+   "skills": [
+    "git"
+   ],
+   "firstSeen": "2026-11-19",
+   "isNew": false
+  },
+  {
    "id": "gh-stripe-8247127",
    "company": "stripe",
    "title": "AR Analyst",
    "location": "Bangalore",
    "url": "https://stripe.com/jobs/search?gh_jid=8247127",
-   "posted": "2026-10-29",
+   "posted": "2026-11-19",
    "score": 25,
    "fresher": true,
    "years": 0,
@@ -934,12 +932,12 @@
    "isNew": false
   },
   {
-   "id": "gh-zscaler-5123489007",
+   "id": "gh-zscaler-5210010007",
    "company": "zscaler",
    "title": "Escalation Engineer - ZIA/ZPA",
    "location": "Bangalore, IND; Mohali, IND",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5123489007",
-   "posted": "2026-11-18",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5210010007",
+   "posted": "2026-10-29",
    "score": 22,
    "fresher": false,
    "years": 0,
@@ -947,7 +945,7 @@
    "skills": [
     "git"
    ],
-   "firstSeen": "2026-11-17",
+   "firstSeen": "2026-11-16",
    "isNew": false
   },
   {
@@ -1007,6 +1005,28 @@
     "backend"
    ],
    "firstSeen": "2026-11-16",
+   "isNew": false
+  },
+  {
+   "id": "gh-stripe-7917880",
+   "company": "stripe",
+   "title": "Technical Solutions Engineer",
+   "location": "Remote - US",
+   "url": "https://stripe.com/jobs/search?gh_jid=7917880",
+   "posted": "2026-11-19",
+   "score": 43,
+   "fresher": true,
+   "years": 0,
+   "bangalore": false,
+   "skills": [
+    "python",
+    "react",
+    "node",
+    "kotlin",
+    "android",
+    "llm"
+   ],
+   "firstSeen": "2026-11-19",
    "isNew": false
   },
   {
@@ -1264,6 +1284,24 @@
     "rest api"
    ],
    "firstSeen": "2026-11-16",
+   "isNew": false
+  },
+  {
+   "id": "ab-Ramp-f90d32c1-7c10-4161-8913-075e1b423697",
+   "company": "Ramp",
+   "title": "Research Engineer, Agentic Systems",
+   "location": "Remote (US)",
+   "url": "https://jobs.ashbyhq.com/ramp/f90d32c1-7c10-4161-8913-075e1b423697",
+   "posted": "2026-11-18",
+   "score": 19,
+   "fresher": false,
+   "years": 0,
+   "bangalore": false,
+   "skills": [
+    "python",
+    "llm"
+   ],
+   "firstSeen": "2026-11-19",
    "isNew": false
   },
   {
