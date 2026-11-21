@@ -1,61 +1,44 @@
 {
- "updated": "2026-11-20T09:00:49.414308+00:00",
+ "updated": "2026-11-21T08:41:17.920491+00:00",
  "count": 75,
  "jobs": [
   {
-   "id": "ab-Sarvam-0a5bf81d-3370-47e6-88f4-14aa5102ba72",
-   "company": "Sarvam",
-   "title": "Product User Research, Intern",
-   "location": "Bengaluru",
-   "url": "https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72",
+   "id": "gh-turing-6266941004",
+   "company": "turing",
+   "title": "Research Engineer",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://job-boards.greenhouse.io/turing/jobs/6266941004",
    "posted": "2026-11-20",
-   "score": 49,
+   "score": 40,
    "fresher": true,
    "years": 0,
    "bangalore": true,
    "skills": [
+    "deep learning"
+   ],
+   "firstSeen": "2026-11-21",
+   "isNew": true
+  },
+  {
+   "id": "gh-affirm-8201469003",
+   "company": "affirm",
+   "title": "Software Engineer I, Backend (Streaming Infra)",
+   "location": "Remote US",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003",
+   "posted": "2026-11-20",
+   "score": 65,
+   "fresher": true,
+   "years": 0,
+   "bangalore": false,
+   "skills": [
     "python",
-    "sql"
-   ],
-   "firstSeen": "2026-11-20",
-   "isNew": true
-  },
-  {
-   "id": "gh-yugabyte-4727959006",
-   "company": "yugabyte",
-   "title": "Developer Advocate",
-   "location": "Remote, US",
-   "url": "https://job-boards.greenhouse.io/yugabyte/jobs/4727959006",
-   "posted": "2026-11-19",
-   "score": 18,
-   "fresher": false,
-   "years": 0,
-   "bangalore": false,
-   "skills": [
     "sql",
-    "ai engineer",
-    "git"
+    "mysql",
+    "kotlin",
+    "aws",
+    "backend"
    ],
-   "firstSeen": "2026-11-20",
-   "isNew": true
-  },
-  {
-   "id": "gh-yugabyte-4682542006",
-   "company": "yugabyte",
-   "title": "Solutions Engineer",
-   "location": "Remote, US",
-   "url": "https://job-boards.greenhouse.io/yugabyte/jobs/4682542006",
-   "posted": "2026-11-19",
-   "score": 15,
-   "fresher": false,
-   "years": 0,
-   "bangalore": false,
-   "skills": [
-    "node",
-    "sql",
-    "aws"
-   ],
-   "firstSeen": "2026-11-20",
+   "firstSeen": "2026-11-21",
    "isNew": true
   },
   {
@@ -297,6 +280,24 @@
    "isNew": false
   },
   {
+   "id": "ab-Sarvam-0a5bf81d-3370-47e6-88f4-14aa5102ba72",
+   "company": "Sarvam",
+   "title": "Product User Research, Intern",
+   "location": "Bengaluru",
+   "url": "https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72",
+   "posted": "2026-11-20",
+   "score": 49,
+   "fresher": true,
+   "years": 0,
+   "bangalore": true,
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "firstSeen": "2026-11-20",
+   "isNew": false
+  },
+  {
    "id": "lv-hevodata-4eccaf98-ba19-42ea-b040-e0976d4dadfe",
    "company": "hevodata",
    "title": "Associate SDE",
@@ -494,24 +495,6 @@
     "git",
     "backend",
     "frontend"
-   ],
-   "firstSeen": "2026-11-16",
-   "isNew": false
-  },
-  {
-   "id": "gh-gitlab-8864819002",
-   "company": "gitlab",
-   "title": "Benefits Analyst",
-   "location": "Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8864819002",
-   "posted": "2026-11-06",
-   "score": 39,
-   "fresher": false,
-   "years": 0,
-   "bangalore": true,
-   "skills": [
-    "llm",
-    "git"
    ],
    "firstSeen": "2026-11-16",
    "isNew": false
@@ -932,12 +915,12 @@
    "isNew": false
   },
   {
-   "id": "gh-zscaler-5210010007",
+   "id": "gh-zscaler-5123489007",
    "company": "zscaler",
    "title": "Escalation Engineer - ZIA/ZPA",
    "location": "Bangalore, IND; Mohali, IND",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5210010007",
-   "posted": "2026-10-29",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5123489007",
+   "posted": "2026-11-18",
    "score": 22,
    "fresher": false,
    "years": 0,
@@ -945,7 +928,7 @@
    "skills": [
     "git"
    ],
-   "firstSeen": "2026-11-16",
+   "firstSeen": "2026-11-17",
    "isNew": false
   },
   {
@@ -1106,23 +1089,6 @@
    "isNew": false
   },
   {
-   "id": "lv-mindtickle-68626a39-ae90-4870-b3c7-04bf489f66f7",
-   "company": "mindtickle",
-   "title": "Customer Support Engineer - I",
-   "location": "Pune, Maharashtra",
-   "url": "https://jobs.lever.co/mindtickle/68626a39-ae90-4870-b3c7-04bf489f66f7",
-   "posted": "2026-11-04",
-   "score": 28,
-   "fresher": true,
-   "years": 2,
-   "bangalore": false,
-   "skills": [
-    "backend"
-   ],
-   "firstSeen": "2026-11-16",
-   "isNew": false
-  },
-  {
    "id": "ab-Snowflake-1af751fb-d53e-43b0-a3bc-6fcc4004cafb",
    "company": "Snowflake",
    "title": "Data Engineer",
@@ -1275,7 +1241,7 @@
    "title": "Personalized Support Engineer",
    "location": "Remote - India",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8213730",
-   "posted": "2026-11-18",
+   "posted": "2026-11-20",
    "score": 20,
    "fresher": false,
    "years": 0,
@@ -1302,6 +1268,25 @@
     "llm"
    ],
    "firstSeen": "2026-11-19",
+   "isNew": false
+  },
+  {
+   "id": "gh-yugabyte-4727959006",
+   "company": "yugabyte",
+   "title": "Developer Advocate",
+   "location": "Remote, US",
+   "url": "https://job-boards.greenhouse.io/yugabyte/jobs/4727959006",
+   "posted": "2026-11-19",
+   "score": 18,
+   "fresher": false,
+   "years": 0,
+   "bangalore": false,
+   "skills": [
+    "sql",
+    "ai engineer",
+    "git"
+   ],
+   "firstSeen": "2026-11-20",
    "isNew": false
   },
   {
@@ -1357,6 +1342,25 @@
     "mongodb"
    ],
    "firstSeen": "2026-11-16",
+   "isNew": false
+  },
+  {
+   "id": "gh-yugabyte-4682542006",
+   "company": "yugabyte",
+   "title": "Solutions Engineer",
+   "location": "Remote, US",
+   "url": "https://job-boards.greenhouse.io/yugabyte/jobs/4682542006",
+   "posted": "2026-11-19",
+   "score": 15,
+   "fresher": false,
+   "years": 0,
+   "bangalore": false,
+   "skills": [
+    "node",
+    "sql",
+    "aws"
+   ],
+   "firstSeen": "2026-11-20",
    "isNew": false
   },
   {
