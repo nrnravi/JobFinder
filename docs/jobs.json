@@ -1,46 +1,7 @@
 {
- "updated": "2026-11-21T08:41:17.920491+00:00",
+ "updated": "2026-11-22T08:40:16.247937+00:00",
  "count": 75,
  "jobs": [
-  {
-   "id": "gh-turing-6266941004",
-   "company": "turing",
-   "title": "Research Engineer",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://job-boards.greenhouse.io/turing/jobs/6266941004",
-   "posted": "2026-11-20",
-   "score": 40,
-   "fresher": true,
-   "years": 0,
-   "bangalore": true,
-   "skills": [
-    "deep learning"
-   ],
-   "firstSeen": "2026-11-21",
-   "isNew": true
-  },
-  {
-   "id": "gh-affirm-8201469003",
-   "company": "affirm",
-   "title": "Software Engineer I, Backend (Streaming Infra)",
-   "location": "Remote US",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003",
-   "posted": "2026-11-20",
-   "score": 65,
-   "fresher": true,
-   "years": 0,
-   "bangalore": false,
-   "skills": [
-    "python",
-    "sql",
-    "mysql",
-    "kotlin",
-    "aws",
-    "backend"
-   ],
-   "firstSeen": "2026-11-21",
-   "isNew": true
-  },
   {
    "id": "lv-hevodata-6cbbe304-e065-4711-bf3e-756795d2bc2a",
    "company": "hevodata",
@@ -500,6 +461,23 @@
    "isNew": false
   },
   {
+   "id": "gh-turing-6266941004",
+   "company": "turing",
+   "title": "Research Engineer",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://job-boards.greenhouse.io/turing/jobs/6266941004",
+   "posted": "2026-11-20",
+   "score": 40,
+   "fresher": true,
+   "years": 0,
+   "bangalore": true,
+   "skills": [
+    "deep learning"
+   ],
+   "firstSeen": "2026-11-21",
+   "isNew": false
+  },
+  {
    "id": "gh-okta-7770733",
    "company": "okta",
    "title": "Developer Support Engineer",
@@ -915,12 +893,12 @@
    "isNew": false
   },
   {
-   "id": "gh-zscaler-5123489007",
+   "id": "gh-zscaler-5210010007",
    "company": "zscaler",
    "title": "Escalation Engineer - ZIA/ZPA",
    "location": "Bangalore, IND; Mohali, IND",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5123489007",
-   "posted": "2026-11-18",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5210010007",
+   "posted": "2026-10-29",
    "score": 22,
    "fresher": false,
    "years": 0,
@@ -928,7 +906,7 @@
    "skills": [
     "git"
    ],
-   "firstSeen": "2026-11-17",
+   "firstSeen": "2026-11-16",
    "isNew": false
   },
   {
@@ -966,6 +944,28 @@
     "backend"
    ],
    "firstSeen": "2026-11-16",
+   "isNew": false
+  },
+  {
+   "id": "gh-affirm-8201469003",
+   "company": "affirm",
+   "title": "Software Engineer I, Backend (Streaming Infra)",
+   "location": "Remote US",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003",
+   "posted": "2026-11-20",
+   "score": 65,
+   "fresher": true,
+   "years": 0,
+   "bangalore": false,
+   "skills": [
+    "python",
+    "sql",
+    "mysql",
+    "kotlin",
+    "aws",
+    "backend"
+   ],
+   "firstSeen": "2026-11-21",
    "isNew": false
   },
   {
