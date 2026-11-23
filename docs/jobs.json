@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:40:16.247937+00:00",
- "count": 75,
+ "updated": "2026-11-23T09:37:39.131655+00:00",
+ "count": 71,
  "jobs": [
   {
    "id": "lv-hevodata-6cbbe304-e065-4711-bf3e-756795d2bc2a",
@@ -148,7 +148,7 @@
    "title": "Workday Extend Developer ",
    "location": "Bengaluru, India",
    "url": "https://www.okta.com/company/careers/opportunity/8195169?gh_jid=8195169",
-   "posted": "2026-11-16",
+   "posted": "2026-11-23",
    "score": 57,
    "fresher": true,
    "years": 0,
@@ -219,25 +219,6 @@
     "deep learning"
    ],
    "firstSeen": "2026-11-16",
-   "isNew": false
-  },
-  {
-   "id": "gh-sigmoid-7916306002",
-   "company": "sigmoid",
-   "title": "QA Engineer",
-   "location": "Bengaluru",
-   "url": "https://job-boards.greenhouse.io/sigmoid/jobs/7916306002",
-   "posted": "2026-11-18",
-   "score": 53,
-   "fresher": true,
-   "years": 2,
-   "bangalore": true,
-   "skills": [
-    "python",
-    "javascript",
-    "sql"
-   ],
-   "firstSeen": "2026-11-19",
    "isNew": false
   },
   {
@@ -633,25 +614,6 @@
    "isNew": false
   },
   {
-   "id": "ab-Snowflake-a276eb40-644b-4384-9d9a-bae1c263baa6",
-   "company": "Snowflake",
-   "title": "Forward Deployed Engineer, Frontier Engineering",
-   "location": "IN-Bangalore-MSO",
-   "url": "https://jobs.ashbyhq.com/snowflake/a276eb40-644b-4384-9d9a-bae1c263baa6",
-   "posted": "2026-11-17",
-   "score": 36,
-   "fresher": false,
-   "years": 0,
-   "bangalore": true,
-   "skills": [
-    "python",
-    "sql",
-    "llm"
-   ],
-   "firstSeen": "2026-11-17",
-   "isNew": false
-  },
-  {
    "id": "gh-stripe-8324207",
    "company": "stripe",
    "title": "Processing Cost Analyst",
@@ -665,23 +627,6 @@
    "skills": [
     "python",
     "sql"
-   ],
-   "firstSeen": "2026-11-16",
-   "isNew": false
-  },
-  {
-   "id": "gh-okta-7727730",
-   "company": "okta",
-   "title": "Business Systems Analyst, ServiceNow",
-   "location": "Bengaluru, India",
-   "url": "https://www.okta.com/company/careers/opportunity/7727730?gh_jid=7727730",
-   "posted": "2026-11-19",
-   "score": 34,
-   "fresher": false,
-   "years": 0,
-   "bangalore": true,
-   "skills": [
-    "javascript"
    ],
    "firstSeen": "2026-11-16",
    "isNew": false
@@ -1084,26 +1029,6 @@
     "python",
     "sql",
     "backend"
-   ],
-   "firstSeen": "2026-11-16",
-   "isNew": false
-  },
-  {
-   "id": "ab-Snowflake-1af751fb-d53e-43b0-a3bc-6fcc4004cafb",
-   "company": "Snowflake",
-   "title": "Data Engineer",
-   "location": "IN-Pune",
-   "url": "https://jobs.ashbyhq.com/snowflake/1af751fb-d53e-43b0-a3bc-6fcc4004cafb",
-   "posted": "2026-10-28",
-   "score": 28,
-   "fresher": true,
-   "years": 0,
-   "bangalore": false,
-   "skills": [
-    "python",
-    "sql",
-    "llm",
-    "aws"
    ],
    "firstSeen": "2026-11-16",
    "isNew": false
