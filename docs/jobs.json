@@ -1,23 +1,69 @@
 {
- "updated": "2026-11-24T11:29:56.911331+00:00",
- "count": 71,
+ "updated": "2026-11-25T10:18:25.426754+00:00",
+ "count": 73,
  "jobs": [
   {
-   "id": "gh-gitlab-8940982002",
-   "company": "gitlab",
-   "title": "Applied AI Engineer, Enterprise AI",
-   "location": "Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940982002",
-   "posted": "2026-11-23",
-   "score": 39,
-   "fresher": false,
+   "id": "lv-paytm-7e33e30e-af1e-4f21-ae0c-b91881731bb7",
+   "company": "paytm",
+   "title": "Forward Deployed Engineer",
+   "location": "Bangalore, Karnataka",
+   "url": "https://jobs.lever.co/paytm/7e33e30e-af1e-4f21-ae0c-b91881731bb7",
+   "posted": "2026-10-23",
+   "score": 38,
+   "fresher": true,
    "years": 0,
    "bangalore": true,
    "skills": [
-    "ai engineer",
-    "git"
+    "llm",
+    "git",
+    "backend"
    ],
-   "firstSeen": "2026-11-24",
+   "firstSeen": "2026-11-25",
+   "isNew": true
+  },
+  {
+   "id": "gh-stripe-8401662",
+   "company": "stripe",
+   "title": "Accounting Analyst",
+   "location": "Bengaluru",
+   "url": "https://stripe.com/jobs/search?gh_jid=8401662",
+   "posted": "2026-11-24",
+   "score": 25,
+   "fresher": true,
+   "years": 0,
+   "bangalore": true,
+   "skills": [],
+   "firstSeen": "2026-11-25",
+   "isNew": true
+  },
+  {
+   "id": "gh-stripe-8411217",
+   "company": "stripe",
+   "title": "Accounts Payable Analyst",
+   "location": "Bengaluru",
+   "url": "https://stripe.com/jobs/search?gh_jid=8411217",
+   "posted": "2026-11-24",
+   "score": 25,
+   "fresher": true,
+   "years": 0,
+   "bangalore": true,
+   "skills": [],
+   "firstSeen": "2026-11-25",
+   "isNew": true
+  },
+  {
+   "id": "gh-affirm-8200669003",
+   "company": "affirm",
+   "title": "Compensation Analyst I",
+   "location": "Remote US",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8200669003",
+   "posted": "2026-11-24",
+   "score": 16,
+   "fresher": true,
+   "years": 0,
+   "bangalore": false,
+   "skills": [],
+   "firstSeen": "2026-11-25",
    "isNew": true
   },
   {
@@ -101,7 +147,7 @@
    "title": "Database Engineer",
    "location": "Bengaluru, Karnataka, India",
    "url": "https://www.netradyne.com/company/careers?gh_jid=4729961005",
-   "posted": "2026-10-30",
+   "posted": "2026-11-25",
    "score": 68,
    "fresher": true,
    "years": 2,
@@ -458,6 +504,24 @@
    "isNew": false
   },
   {
+   "id": "gh-gitlab-8940982002",
+   "company": "gitlab",
+   "title": "Applied AI Engineer, Enterprise AI",
+   "location": "Bangalore, India",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940982002",
+   "posted": "2026-11-23",
+   "score": 39,
+   "fresher": false,
+   "years": 0,
+   "bangalore": true,
+   "skills": [
+    "ai engineer",
+    "git"
+   ],
+   "firstSeen": "2026-11-24",
+   "isNew": false
+  },
+  {
    "id": "gh-okta-7770733",
    "company": "okta",
    "title": "Developer Support Engineer",
@@ -470,24 +534,6 @@
    "bangalore": true,
    "skills": [
     "node"
-   ],
-   "firstSeen": "2026-11-16",
-   "isNew": false
-  },
-  {
-   "id": "gh-okta-6839581",
-   "company": "okta",
-   "title": "Solution Engineer",
-   "location": "Bengaluru, India",
-   "url": "https://www.okta.com/company/careers/opportunity/6839581?gh_jid=6839581",
-   "posted": "2026-11-24",
-   "score": 38,
-   "fresher": false,
-   "years": 0,
-   "bangalore": true,
-   "skills": [
-    "javascript",
-    "frontend"
    ],
    "firstSeen": "2026-11-16",
    "isNew": false
@@ -704,21 +750,6 @@
    "isNew": false
   },
   {
-   "id": "gh-devrev-6166569004",
-   "company": "devrev",
-   "title": "Solution Engineer : Bangalore",
-   "location": "Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/devrev/jobs/6166569004",
-   "posted": "2026-11-11",
-   "score": 30,
-   "fresher": false,
-   "years": 0,
-   "bangalore": true,
-   "skills": [],
-   "firstSeen": "2026-11-16",
-   "isNew": false
-  },
-  {
    "id": "gh-stripe-8185012",
    "company": "stripe",
    "title": "Software Engineer, Payin",
@@ -837,12 +868,12 @@
    "isNew": false
   },
   {
-   "id": "gh-zscaler-5210010007",
+   "id": "gh-zscaler-5123489007",
    "company": "zscaler",
    "title": "Escalation Engineer - ZIA/ZPA",
    "location": "Bangalore, IND; Mohali, IND",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5210010007",
-   "posted": "2026-10-29",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5123489007",
+   "posted": "2026-11-18",
    "score": 22,
    "fresher": false,
    "years": 0,
@@ -850,7 +881,7 @@
    "skills": [
     "git"
    ],
-   "firstSeen": "2026-11-16",
+   "firstSeen": "2026-11-17",
    "isNew": false
   },
   {
@@ -1150,7 +1181,7 @@
    "title": "Solution Engineer : Delhi",
    "location": "India Remote",
    "url": "https://job-boards.greenhouse.io/devrev/jobs/5831999004",
-   "posted": "2026-09-25",
+   "posted": "2026-11-25",
    "score": 20,
    "fresher": false,
    "years": 0,
@@ -1165,7 +1196,7 @@
    "title": "Personalized Support Engineer",
    "location": "Remote - India",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8213730",
-   "posted": "2026-11-23",
+   "posted": "2026-11-24",
    "score": 20,
    "fresher": false,
    "years": 0,
