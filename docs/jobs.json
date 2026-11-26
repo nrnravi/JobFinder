@@ -1,69 +1,83 @@
 {
- "updated": "2026-11-25T10:18:25.426754+00:00",
- "count": 73,
+ "updated": "2026-11-26T09:57:06.415804+00:00",
+ "count": 77,
  "jobs": [
   {
-   "id": "lv-paytm-7e33e30e-af1e-4f21-ae0c-b91881731bb7",
-   "company": "paytm",
-   "title": "Forward Deployed Engineer",
-   "location": "Bangalore, Karnataka",
-   "url": "https://jobs.lever.co/paytm/7e33e30e-af1e-4f21-ae0c-b91881731bb7",
-   "posted": "2026-10-23",
-   "score": 38,
+   "id": "lv-hevodata-ac91f4b5-76a8-45a3-bed2-41859dc64d17",
+   "company": "hevodata",
+   "title": "Customer Data engineer",
+   "location": "Bangalore, India",
+   "url": "https://jobs.lever.co/hevodata/ac91f4b5-76a8-45a3-bed2-41859dc64d17",
+   "posted": "2026-11-26",
+   "score": 54,
+   "fresher": true,
+   "years": 2,
+   "bangalore": true,
+   "skills": [
+    "sql",
+    "mysql",
+    "aws"
+   ],
+   "firstSeen": "2026-11-26",
+   "isNew": true
+  },
+  {
+   "id": "lv-fampay-cf014ef0-218a-4041-a238-ff91c7b9a5bc",
+   "company": "fampay",
+   "title": "Backend Engineering Intern",
+   "location": "Bengaluru",
+   "url": "https://jobs.lever.co/fampay/cf014ef0-218a-4041-a238-ff91c7b9a5bc",
+   "posted": "2026-11-26",
+   "score": 53,
    "fresher": true,
    "years": 0,
    "bangalore": true,
    "skills": [
-    "llm",
-    "git",
+    "python",
+    "aws",
     "backend"
    ],
-   "firstSeen": "2026-11-25",
+   "firstSeen": "2026-11-26",
    "isNew": true
   },
   {
-   "id": "gh-stripe-8401662",
-   "company": "stripe",
-   "title": "Accounting Analyst",
-   "location": "Bengaluru",
-   "url": "https://stripe.com/jobs/search?gh_jid=8401662",
-   "posted": "2026-11-24",
-   "score": 25,
-   "fresher": true,
+   "id": "gh-zscaler-5271559007",
+   "company": "zscaler",
+   "title": "Production Engineer (SRE/Dev - Python)",
+   "location": "Bangalore, IND",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5271559007",
+   "posted": "2026-11-25",
+   "score": 31,
+   "fresher": false,
    "years": 0,
    "bangalore": true,
-   "skills": [],
-   "firstSeen": "2026-11-25",
+   "skills": [
+    "python",
+    "aws",
+    "git"
+   ],
+   "firstSeen": "2026-11-26",
    "isNew": true
   },
   {
-   "id": "gh-stripe-8411217",
-   "company": "stripe",
-   "title": "Accounts Payable Analyst",
-   "location": "Bengaluru",
-   "url": "https://stripe.com/jobs/search?gh_jid=8411217",
-   "posted": "2026-11-24",
-   "score": 25,
-   "fresher": true,
-   "years": 0,
-   "bangalore": true,
-   "skills": [],
-   "firstSeen": "2026-11-25",
-   "isNew": true
-  },
-  {
-   "id": "gh-affirm-8200669003",
-   "company": "affirm",
-   "title": "Compensation Analyst I",
-   "location": "Remote US",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8200669003",
-   "posted": "2026-11-24",
-   "score": 16,
-   "fresher": true,
+   "id": "ab-Atlan-dbb8cec5-f9b8-46af-bbbe-9638c5646638",
+   "company": "Atlan",
+   "title": "AI Native Builder - Frontend",
+   "location": "India",
+   "url": "https://jobs.ashbyhq.com/atlan/dbb8cec5-f9b8-46af-bbbe-9638c5646638",
+   "posted": "2026-11-26",
+   "score": 34,
+   "fresher": false,
    "years": 0,
    "bangalore": false,
-   "skills": [],
-   "firstSeen": "2026-11-25",
+   "skills": [
+    "react",
+    "typescript",
+    "llm",
+    "backend",
+    "frontend"
+   ],
+   "firstSeen": "2026-11-26",
    "isNew": true
   },
   {
@@ -105,21 +119,6 @@
     "git"
    ],
    "firstSeen": "2026-11-16",
-   "isNew": false
-  },
-  {
-   "id": "gh-stripe-8130876",
-   "company": "stripe",
-   "title": "Software Engineer, New Grad",
-   "location": "Bangalore",
-   "url": "https://stripe.com/jobs/search?gh_jid=8130876",
-   "posted": "2026-11-19",
-   "score": 75,
-   "fresher": true,
-   "years": 0,
-   "bangalore": true,
-   "skills": [],
-   "firstSeen": "2026-11-19",
    "isNew": false
   },
   {
@@ -384,7 +383,7 @@
    "title": "Application Engineer",
    "location": "Bengaluru",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8143980",
-   "posted": "2026-11-23",
+   "posted": "2026-11-25",
    "score": 42,
    "fresher": false,
    "years": 0,
@@ -400,12 +399,31 @@
    "isNew": false
   },
   {
+   "id": "gh-databricks-8829029002",
+   "company": "databricks",
+   "title": "Software Engineer, Infrastructure",
+   "location": "Bengaluru, India",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
+   "posted": "2026-11-25",
+   "score": 41,
+   "fresher": false,
+   "years": 0,
+   "bangalore": true,
+   "skills": [
+    "python",
+    "aws",
+    "git"
+   ],
+   "firstSeen": "2026-11-16",
+   "isNew": false
+  },
+  {
    "id": "gh-mongodb-8007613",
    "company": "mongodb",
    "title": "Technical Services Engineer",
    "location": "Bengaluru",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8007613",
-   "posted": "2026-11-23",
+   "posted": "2026-11-25",
    "score": 41,
    "fresher": true,
    "years": 0,
@@ -425,7 +443,7 @@
    "title": "Business Support Analyst (LMS Admin)",
    "location": "Bangalore, IND",
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5261002007",
-   "posted": "2026-11-04",
+   "posted": "2026-11-25",
    "score": 41,
    "fresher": true,
    "years": 0,
@@ -444,21 +462,6 @@
    "location": "Onsite in Bangalore",
    "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8229735",
    "posted": "2026-10-15",
-   "score": 40,
-   "fresher": true,
-   "years": 0,
-   "bangalore": true,
-   "skills": [],
-   "firstSeen": "2026-11-16",
-   "isNew": false
-  },
-  {
-   "id": "gh-stripe-8031833",
-   "company": "stripe",
-   "title": "Software Engineer, Intern",
-   "location": "Bengaluru",
-   "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-   "posted": "2026-11-19",
    "score": 40,
    "fresher": true,
    "years": 0,
@@ -522,23 +525,6 @@
    "isNew": false
   },
   {
-   "id": "gh-okta-7770733",
-   "company": "okta",
-   "title": "Developer Support Engineer",
-   "location": "Bengaluru, India",
-   "url": "https://www.okta.com/company/careers/opportunity/7770733?gh_jid=7770733",
-   "posted": "2026-11-24",
-   "score": 38,
-   "fresher": true,
-   "years": 0,
-   "bangalore": true,
-   "skills": [
-    "node"
-   ],
-   "firstSeen": "2026-11-16",
-   "isNew": false
-  },
-  {
    "id": "gh-gitlab-8730125002",
    "company": "gitlab",
    "title": "Release Engineer, Salesforce",
@@ -554,6 +540,25 @@
     "git"
    ],
    "firstSeen": "2026-11-19",
+   "isNew": false
+  },
+  {
+   "id": "lv-paytm-7e33e30e-af1e-4f21-ae0c-b91881731bb7",
+   "company": "paytm",
+   "title": "Forward Deployed Engineer",
+   "location": "Bangalore, Karnataka",
+   "url": "https://jobs.lever.co/paytm/7e33e30e-af1e-4f21-ae0c-b91881731bb7",
+   "posted": "2026-10-23",
+   "score": 38,
+   "fresher": true,
+   "years": 0,
+   "bangalore": true,
+   "skills": [
+    "llm",
+    "git",
+    "backend"
+   ],
+   "firstSeen": "2026-11-25",
    "isNew": false
   },
   {
@@ -596,7 +601,7 @@
    "title": "AP & Expenses Projects Analyst",
    "location": "Bengaluru, India",
    "url": "https://www.okta.com/company/careers/opportunity/7626222?gh_jid=7626222",
-   "posted": "2026-11-19",
+   "posted": "2026-11-26",
    "score": 36,
    "fresher": false,
    "years": 0,
@@ -656,6 +661,25 @@
    "bangalore": true,
    "skills": [],
    "firstSeen": "2026-11-16",
+   "isNew": false
+  },
+  {
+   "id": "ab-Snowflake-a276eb40-644b-4384-9d9a-bae1c263baa6",
+   "company": "Snowflake",
+   "title": "Forward Deployed Engineer, Frontier Engineering",
+   "location": "IN-Bangalore-MSO",
+   "url": "https://jobs.ashbyhq.com/snowflake/a276eb40-644b-4384-9d9a-bae1c263baa6",
+   "posted": "2026-11-25",
+   "score": 36,
+   "fresher": false,
+   "years": 0,
+   "bangalore": true,
+   "skills": [
+    "python",
+    "sql",
+    "llm"
+   ],
+   "firstSeen": "2026-11-17",
    "isNew": false
   },
   {
@@ -790,7 +814,7 @@
    "title": "Real Estate Analyst",
    "location": "Bengaluru; Gurugram",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8094118",
-   "posted": "2026-11-23",
+   "posted": "2026-11-25",
    "score": 28,
    "fresher": true,
    "years": 0,
@@ -824,7 +848,7 @@
    "title": "Escalation Engineer - ZTB",
    "location": "Bangalore, IND",
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5085027007",
-   "posted": "2026-11-18",
+   "posted": "2026-11-25",
    "score": 27,
    "fresher": true,
    "years": 0,
@@ -833,6 +857,36 @@
     "git"
    ],
    "firstSeen": "2026-11-19",
+   "isNew": false
+  },
+  {
+   "id": "gh-stripe-8401662",
+   "company": "stripe",
+   "title": "Accounting Analyst",
+   "location": "Bengaluru",
+   "url": "https://stripe.com/jobs/search?gh_jid=8401662",
+   "posted": "2026-11-24",
+   "score": 25,
+   "fresher": true,
+   "years": 0,
+   "bangalore": true,
+   "skills": [],
+   "firstSeen": "2026-11-25",
+   "isNew": false
+  },
+  {
+   "id": "gh-stripe-8411217",
+   "company": "stripe",
+   "title": "Accounts Payable Analyst",
+   "location": "Bengaluru",
+   "url": "https://stripe.com/jobs/search?gh_jid=8411217",
+   "posted": "2026-11-24",
+   "score": 25,
+   "fresher": true,
+   "years": 0,
+   "bangalore": true,
+   "skills": [],
+   "firstSeen": "2026-11-25",
    "isNew": false
   },
   {
@@ -856,7 +910,7 @@
    "title": "Escalation Engineer",
    "location": "Bangalore, IND",
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5263563007",
-   "posted": "2026-11-06",
+   "posted": "2026-11-25",
    "score": 22,
    "fresher": false,
    "years": 0,
@@ -873,7 +927,7 @@
    "title": "Escalation Engineer - ZIA/ZPA",
    "location": "Bangalore, IND; Mohali, IND",
    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5123489007",
-   "posted": "2026-11-18",
+   "posted": "2026-11-25",
    "score": 22,
    "fresher": false,
    "years": 0,
@@ -1102,6 +1156,25 @@
    "isNew": false
   },
   {
+   "id": "gh-stripe-8142302",
+   "company": "stripe",
+   "title": "Security Analyst ",
+   "location": "US Remote",
+   "url": "https://stripe.com/jobs/search?gh_jid=8142302",
+   "posted": "2026-11-25",
+   "score": 23,
+   "fresher": true,
+   "years": 0,
+   "bangalore": false,
+   "skills": [
+    "python",
+    "sql",
+    "aws"
+   ],
+   "firstSeen": "2026-11-16",
+   "isNew": false
+  },
+  {
    "id": "gh-coinbase-8233945",
    "company": "coinbase",
    "title": "Enterprise Risk Management Analyst",
@@ -1196,7 +1269,7 @@
    "title": "Personalized Support Engineer",
    "location": "Remote - India",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8213730",
-   "posted": "2026-11-24",
+   "posted": "2026-11-25",
    "score": 20,
    "fresher": false,
    "years": 0,
@@ -1278,6 +1351,21 @@
     "git"
    ],
    "firstSeen": "2026-11-16",
+   "isNew": false
+  },
+  {
+   "id": "gh-affirm-8200669003",
+   "company": "affirm",
+   "title": "Compensation Analyst I",
+   "location": "Remote US",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8200669003",
+   "posted": "2026-11-24",
+   "score": 16,
+   "fresher": true,
+   "years": 0,
+   "bangalore": false,
+   "skills": [],
+   "firstSeen": "2026-11-25",
    "isNew": false
   },
   {
