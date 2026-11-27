@@ -1,85 +1,7 @@
 {
- "updated": "2026-11-26T09:57:06.415804+00:00",
- "count": 77,
+ "updated": "2026-11-27T10:01:43.063513+00:00",
+ "count": 76,
  "jobs": [
-  {
-   "id": "lv-hevodata-ac91f4b5-76a8-45a3-bed2-41859dc64d17",
-   "company": "hevodata",
-   "title": "Customer Data engineer",
-   "location": "Bangalore, India",
-   "url": "https://jobs.lever.co/hevodata/ac91f4b5-76a8-45a3-bed2-41859dc64d17",
-   "posted": "2026-11-26",
-   "score": 54,
-   "fresher": true,
-   "years": 2,
-   "bangalore": true,
-   "skills": [
-    "sql",
-    "mysql",
-    "aws"
-   ],
-   "firstSeen": "2026-11-26",
-   "isNew": true
-  },
-  {
-   "id": "lv-fampay-cf014ef0-218a-4041-a238-ff91c7b9a5bc",
-   "company": "fampay",
-   "title": "Backend Engineering Intern",
-   "location": "Bengaluru",
-   "url": "https://jobs.lever.co/fampay/cf014ef0-218a-4041-a238-ff91c7b9a5bc",
-   "posted": "2026-11-26",
-   "score": 53,
-   "fresher": true,
-   "years": 0,
-   "bangalore": true,
-   "skills": [
-    "python",
-    "aws",
-    "backend"
-   ],
-   "firstSeen": "2026-11-26",
-   "isNew": true
-  },
-  {
-   "id": "gh-zscaler-5271559007",
-   "company": "zscaler",
-   "title": "Production Engineer (SRE/Dev - Python)",
-   "location": "Bangalore, IND",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5271559007",
-   "posted": "2026-11-25",
-   "score": 31,
-   "fresher": false,
-   "years": 0,
-   "bangalore": true,
-   "skills": [
-    "python",
-    "aws",
-    "git"
-   ],
-   "firstSeen": "2026-11-26",
-   "isNew": true
-  },
-  {
-   "id": "ab-Atlan-dbb8cec5-f9b8-46af-bbbe-9638c5646638",
-   "company": "Atlan",
-   "title": "AI Native Builder - Frontend",
-   "location": "India",
-   "url": "https://jobs.ashbyhq.com/atlan/dbb8cec5-f9b8-46af-bbbe-9638c5646638",
-   "posted": "2026-11-26",
-   "score": 34,
-   "fresher": false,
-   "years": 0,
-   "bangalore": false,
-   "skills": [
-    "react",
-    "typescript",
-    "llm",
-    "backend",
-    "frontend"
-   ],
-   "firstSeen": "2026-11-26",
-   "isNew": true
-  },
   {
    "id": "lv-hevodata-6cbbe304-e065-4711-bf3e-756795d2bc2a",
    "company": "hevodata",
@@ -246,6 +168,25 @@
    "isNew": false
   },
   {
+   "id": "lv-hevodata-ac91f4b5-76a8-45a3-bed2-41859dc64d17",
+   "company": "hevodata",
+   "title": "Customer Data engineer",
+   "location": "Bangalore, India",
+   "url": "https://jobs.lever.co/hevodata/ac91f4b5-76a8-45a3-bed2-41859dc64d17",
+   "posted": "2026-11-26",
+   "score": 54,
+   "fresher": true,
+   "years": 2,
+   "bangalore": true,
+   "skills": [
+    "sql",
+    "mysql",
+    "aws"
+   ],
+   "firstSeen": "2026-11-26",
+   "isNew": false
+  },
+  {
    "id": "lv-hevodata-ee02ca24-94ec-415b-ab36-7dec4d62099b",
    "company": "hevodata",
    "title": "Solutions Engineer",
@@ -282,6 +223,25 @@
     "deep learning"
    ],
    "firstSeen": "2026-11-16",
+   "isNew": false
+  },
+  {
+   "id": "lv-fampay-cf014ef0-218a-4041-a238-ff91c7b9a5bc",
+   "company": "fampay",
+   "title": "Backend Engineering Intern",
+   "location": "Bengaluru",
+   "url": "https://jobs.lever.co/fampay/cf014ef0-218a-4041-a238-ff91c7b9a5bc",
+   "posted": "2026-11-26",
+   "score": 53,
+   "fresher": true,
+   "years": 0,
+   "bangalore": true,
+   "skills": [
+    "python",
+    "aws",
+    "backend"
+   ],
+   "firstSeen": "2026-11-26",
    "isNew": false
   },
   {
@@ -512,7 +472,7 @@
    "title": "Applied AI Engineer, Enterprise AI",
    "location": "Bangalore, India",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940982002",
-   "posted": "2026-11-23",
+   "posted": "2026-11-26",
    "score": 39,
    "fresher": false,
    "years": 0,
@@ -738,25 +698,6 @@
    "isNew": false
   },
   {
-   "id": "ab-Sarvam-db89b576-2456-4cc4-ab0b-c45f8c6c27f0",
-   "company": "Sarvam",
-   "title": "Software Development Engineer - Tejas",
-   "location": "Bengaluru",
-   "url": "https://jobs.ashbyhq.com/sarvam/db89b576-2456-4cc4-ab0b-c45f8c6c27f0",
-   "posted": "2026-10-23",
-   "score": 34,
-   "fresher": false,
-   "years": 0,
-   "bangalore": true,
-   "skills": [
-    "sql",
-    "llm",
-    "backend"
-   ],
-   "firstSeen": "2026-11-16",
-   "isNew": false
-  },
-  {
    "id": "gh-stripe-7618977",
    "company": "stripe",
    "title": "Software Engineer, Core Technology",
@@ -771,6 +712,25 @@
     "machine learning"
    ],
    "firstSeen": "2026-11-16",
+   "isNew": false
+  },
+  {
+   "id": "gh-zscaler-5271559007",
+   "company": "zscaler",
+   "title": "Production Engineer (SRE/Dev - Python)",
+   "location": "Bangalore, IND",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5271559007",
+   "posted": "2026-11-25",
+   "score": 31,
+   "fresher": false,
+   "years": 0,
+   "bangalore": true,
+   "skills": [
+    "python",
+    "aws",
+    "git"
+   ],
+   "firstSeen": "2026-11-26",
    "isNew": false
   },
   {
@@ -1099,6 +1059,27 @@
    "isNew": false
   },
   {
+   "id": "ab-Atlan-dbb8cec5-f9b8-46af-bbbe-9638c5646638",
+   "company": "Atlan",
+   "title": "AI Native Builder - Frontend",
+   "location": "India",
+   "url": "https://jobs.ashbyhq.com/atlan/dbb8cec5-f9b8-46af-bbbe-9638c5646638",
+   "posted": "2026-11-26",
+   "score": 34,
+   "fresher": false,
+   "years": 0,
+   "bangalore": false,
+   "skills": [
+    "react",
+    "typescript",
+    "llm",
+    "backend",
+    "frontend"
+   ],
+   "firstSeen": "2026-11-26",
+   "isNew": false
+  },
+  {
    "id": "ab-notion-79c18580-c927-456c-9d5f-72efbc6c43cb",
    "company": "notion",
    "title": "Forward Deployed Engineer, India",
@@ -1269,7 +1250,7 @@
    "title": "Personalized Support Engineer",
    "location": "Remote - India",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8213730",
-   "posted": "2026-11-25",
+   "posted": "2026-11-26",
    "score": 20,
    "fresher": false,
    "years": 0,
