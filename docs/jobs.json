@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-27T10:01:43.063513+00:00",
- "count": 76,
+ "updated": "2026-11-28T09:19:16.786166+00:00",
+ "count": 75,
  "jobs": [
+  {
+   "id": "lv-meesho-73db1822-f3de-4f9f-a2b3-944ea0b03702",
+   "company": "meesho",
+   "title": "Software Engineer I - Backend  (Kirana Club)",
+   "location": "Bangalore, Karnataka",
+   "url": "https://jobs.lever.co/meesho/73db1822-f3de-4f9f-a2b3-944ea0b03702",
+   "posted": "2026-11-18",
+   "score": 107,
+   "fresher": true,
+   "years": 1,
+   "bangalore": true,
+   "skills": [
+    "python",
+    "react",
+    "typescript",
+    "node",
+    "sql",
+    "llm",
+    "fullstack",
+    "backend"
+   ],
+   "firstSeen": "2026-11-28",
+   "isNew": true
+  },
   {
    "id": "lv-hevodata-6cbbe304-e065-4711-bf3e-756795d2bc2a",
    "company": "hevodata",
@@ -242,24 +266,6 @@
     "backend"
    ],
    "firstSeen": "2026-11-26",
-   "isNew": false
-  },
-  {
-   "id": "ab-Sarvam-0a5bf81d-3370-47e6-88f4-14aa5102ba72",
-   "company": "Sarvam",
-   "title": "Product User Research, Intern",
-   "location": "Bengaluru",
-   "url": "https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72",
-   "posted": "2026-11-20",
-   "score": 49,
-   "fresher": true,
-   "years": 0,
-   "bangalore": true,
-   "skills": [
-    "python",
-    "sql"
-   ],
-   "firstSeen": "2026-11-20",
    "isNew": false
   },
   {
@@ -899,21 +905,6 @@
    "isNew": false
   },
   {
-   "id": "ab-Snowflake-dd74b9e7-ebed-4d23-94d0-1fbb4d90b180",
-   "company": "Snowflake",
-   "title": "Solution Engineer - GCC (FSI)",
-   "location": "IN-Bangalore-MSO",
-   "url": "https://jobs.ashbyhq.com/snowflake/dd74b9e7-ebed-4d23-94d0-1fbb4d90b180",
-   "posted": "2026-10-29",
-   "score": 20,
-   "fresher": false,
-   "years": 0,
-   "bangalore": true,
-   "skills": [],
-   "firstSeen": "2026-11-16",
-   "isNew": false
-  },
-  {
    "id": "gh-affirm-8017340003",
    "company": "affirm",
    "title": "Software Engineer I, Fullstack (Search)",
@@ -1250,7 +1241,7 @@
    "title": "Personalized Support Engineer",
    "location": "Remote - India",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8213730",
-   "posted": "2026-11-26",
+   "posted": "2026-11-27",
    "score": 20,
    "fresher": false,
    "years": 0,
